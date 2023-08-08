@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "136263415158",
+    "project_id": "e-grocery-2d0f1",
+    "storage_bucket": "e-grocery-2d0f1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:136263415158:android:00f9a1166050bc7f187657",
+        "android_client_info": {
+          "package_name": "com.groceryshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "136263415158-e9g2sd5vh77feis67uju248ll4vrqk3n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAD4h_DrK6mnzzZWMFqo_85q7VLrClpWRo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "136263415158-e9g2sd5vh77feis67uju248ll4vrqk3n.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "136263415158-tgv0nb9tpuodadvcphfrof4n7i3dq7cc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.groceryshop.user"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
