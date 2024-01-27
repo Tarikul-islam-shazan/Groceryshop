@@ -1,10 +1,6 @@
 import { PayloadAction, createSlice } from "@reduxjs/toolkit";
+import { IGroceryProduct } from "../../../models";
 
-export interface IGroceryProduct {
-    name: string;
-    productCode: string;
-    price: number;
-}
 
 export interface IGroceryProductState {
     data: IGroceryProduct[],
